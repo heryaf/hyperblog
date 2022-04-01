@@ -12,5 +12,7 @@ Un blog increible par ael curso de Git y Github de Platzi.
 * El verdadero amor por las buenas practricas
 * Trucos
 * Vas a quedar maravillado de este curso
+* Incluye ejemplos en windows, linux y mac
+* Disponible para todas las edades
 
 Y como amable recordatorio: **Este readme.md  esa hecho por una persona principante**  que le sirve de practica para el curso. La liga para el curso es [Curso de Platzi de Git y Github](https://platzi.com/cursos/git-github/ "Curso de Platzi de Gi y Github")
