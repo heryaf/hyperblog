@@ -11,5 +11,6 @@ Un blog increible par ael curso de Git y Github de Platzi.
 * El flujo de trabajo en Github
 * El verdadero amor por las buenas practricas
 * Trucos
+* Vas a quedar maravillado de este curso
 
 Y como amable recordatorio: **Este readme.md  esa hecho por una persona principante**  que le sirve de practica para el curso. La liga para el curso es [Curso de Platzi de Git y Github](https://platzi.com/cursos/git-github/ "Curso de Platzi de Gi y Github")
